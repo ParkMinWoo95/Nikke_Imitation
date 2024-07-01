@@ -650,7 +650,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0350285ff1eeeff43a0fe39225472843, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 106272832c5c9bb4e8432a1d7a023d81, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2756,6 +2756,10 @@ PrefabInstance:
     - target: {fileID: 3509105384492356492, guid: ebc6254550545114d8f9d5a2f0fdb626, type: 3}
       propertyPath: m_Name
       value: UnityChanIcon
+      objectReference: {fileID: 0}
+    - target: {fileID: 3509105384492356492, guid: ebc6254550545114d8f9d5a2f0fdb626, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7532921155283571640, guid: ebc6254550545114d8f9d5a2f0fdb626, type: 3}
       propertyPath: m_Pivot.x
